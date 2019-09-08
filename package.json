@@ -1,0 +1,7 @@
+{
+  "name": "jest-mock-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Steliyan Stoyanov <steliyan@st6.io>",
+  "license": "MIT"
+}
